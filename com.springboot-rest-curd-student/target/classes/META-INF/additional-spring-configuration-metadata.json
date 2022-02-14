@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.h2.console.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.h2.console.enable'"
+  },
+  {
+    "name": "server.error.whitelable.enabled",
+    "type": "java.lang.String",
+    "description": "A description for 'server.error.whitelable.enabled'"
+  }
+]}
